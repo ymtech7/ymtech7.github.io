@@ -1,0 +1,35 @@
+
+body {
+  margin: 0;
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #e8f8ff;
+  color: #333;
+}
+header {
+  background-color: #b3e5fc;
+  padding: 20px;
+  text-align: center;
+}
+nav a {
+  margin: 10px;
+  text-decoration: none;
+  color: #000;
+  font-weight: bold;
+}
+main {
+  padding: 20px;
+}
+.blog-preview {
+  background-color: #fffde7;
+  padding: 20px;
+  margin-top: 20px;
+  border-radius: 8px;
+}
+footer {
+  background-color: #b3e5fc;
+  text-align: center;
+  padding: 10px;
+  position: fixed;
+  width: 100%;
+  bottom: 0;
+}
